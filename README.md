@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing 554 drone flights across 25 drone models, built to surface operational insights like flight reliability, failure patterns, and performance differences by drone size.
 
-![Dashboard Screenshot](./Dashboard-screenshot.png)
+![Dashboard Screenshot](./dashboard-screenshot.png)
 
 ## Dataset
 
